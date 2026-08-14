@@ -1,0 +1,13 @@
+runtime[ms]                        : 3245.574236
+throughput[images/s]               : 12.324475
+DRAM_in_bandwidth[MB/s]            : 3.786079
+DRAM_out_bandwidth[MB/s]           : 0.700030
+DRAM_extw_idma0_bandwidth[MB/s]    : 97.964790
+fclk[mhz]                          : 100.000000
+batch_size                         : 40.000000
+fold_input[ms]                     : 0.196695
+pack_input[ms]                     : 0.141859
+copy_input_data_to_device[ms]      : 81.543922
+copy_output_data_from_device[ms]   : 10.724306
+unpack_output[ms]                  : 46.431303
+unfold_output[ms]                  : 0.294924
